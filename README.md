@@ -29,7 +29,7 @@ This project addresses the growing threat of synthetic media by utilizing Transf
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Padmaja3457/Deep_fake_face_detection.git](https://github.com/Padmaja3457/Deep_fake_face_detection.git)
+git clone [https://github.com/Padmaja3457/Deep_fake_face_detection.git]
 cd Deep_fake_face_detection
 ```
 ### 2. Install Dependencies
