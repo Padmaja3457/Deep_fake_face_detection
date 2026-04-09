@@ -16,7 +16,8 @@ This project addresses the growing threat of synthetic media by utilizing Transf
 * **Deep Learning:** TensorFlow 2.x, Keras, InceptionResNetV2
 * **Image Processing:** OpenCV, PIL
 * **Frontend:** Streamlit
-* **Environment:** Python 3.10+
+* **Environment:** Python 3.10+, Trainin-Google colab(GPU)
+  
 
 ## ⚙️ How It Works
 1. **Preprocessing:** Images are resized to 299x299 and normalized to the [-1, 1] range.
@@ -30,9 +31,12 @@ This project addresses the growing threat of synthetic media by utilizing Transf
 ```bash
 git clone [https://github.com/Padmaja3457/Deep_fake_face_detection.git](https://github.com/Padmaja3457/Deep_fake_face_detection.git)
 cd Deep_fake_face_detection
+```
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 ### 3. Run the Application
 ```bash
 streamlit run main.py
+```
